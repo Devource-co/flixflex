@@ -38,6 +38,7 @@
     "ejs": "^3.0.2",
     "express": "^4.17.1",
     "graphql": "^14.6.0",
+    "jsonwebtoken": "^8.5.1",
     "libphonenumber-js": "^1.7.50",
     "lodash.merge": "^4.6.2",
     "nodemailer": "^6.4.6",
